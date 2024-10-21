@@ -1,0 +1,30 @@
+[submodule "ML1.IntroToColabAndPandas"]
+	path = ML1.IntroToColabAndPandas
+	url = https://github.com/gigaanet/ML1.IntroToColabAndPandas.git
+[submodule "ML2.Regression_model_Representation"]
+	path = ML2.Regression_model_Representation
+	url = https://github.com/gigaanet/ML2.Regression_model_Representation.git
+[submodule "ML3_LogisticRegression"]
+	path = ML3_LogisticRegression
+	url = https://github.com/gigaanet/ML3_LogisticRegression
+[submodule "ML4.SVM_Classification_Regression"]
+	path = ML4.SVM_Classification_Regression
+	url = https://github.com/gigaanet/ML4.SVM_Classification_Regression.git
+[submodule "ML5.Decision-Tree-Classifier"]
+	path = ML5.Decision-Tree-Classifier
+	url = https://github.com/gigaanet/ML5.Decision-Tree-Classifier.git
+[submodule "Practice1"]
+	path = Practice1
+	url = https://github.com/gigaanet/ML1.IntroToColabAndPandas.git
+[submodule "Practice2"]
+	path = Practice2
+	url = https://github.com/gigaanet/ML2.Regression_model_Representation.git
+[submodule "Practice3"]
+	path = Practice3
+	url = https://github.com/gigaanet/ML3_LogisticRegression.git
+[submodule "Practice4"]
+	path = Practice4
+	url = https://github.com/gigaanet/ML4.SVM_Classification_Regression.git
+[submodule "Practice5"]
+	path = Practice5
+	url = https://github.com/gigaanet/ML5.Decision-Tree-Classifier.git
